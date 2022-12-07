@@ -77,6 +77,13 @@
         "teamTwo": "INS"
     },
     {
+        "id": "AlBasrah_Invasion_v8",
+        "level": "Al Basrah",
+        "gamemode": "Invasion",
+        "teamOne": "PLA",
+        "teamTwo": "INS"
+    },
+    {
         "id": "AlBasrah_RAAS_v1",
         "level": "Al Basrah",
         "gamemode": "RAAS",
@@ -406,6 +413,13 @@
         "teamTwo": "RUS"
     },
     {
+        "id": "Chora_AAS_v6",
+        "level": "Chora",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Chora_Insurgency_v1",
         "level": "Chora",
         "gamemode": "Insurgency",
@@ -453,6 +467,13 @@
         "gamemode": "RAAS",
         "teamOne": "CAF",
         "teamTwo": "MEA"
+    },
+    {
+        "id": "Chora_RAAS_v5",
+        "level": "Chora",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "PLA"
     },
     {
         "id": "Chora_Skirmish_v1",
@@ -525,6 +546,13 @@
         "teamTwo": "INS"
     },
     {
+        "id": "Fallujah_Invasion_v6",
+        "level": "Fallujah",
+        "gamemode": "Invasion",
+        "teamOne": "MEA",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Fallujah_RAAS_v1",
         "level": "Fallujah",
         "gamemode": "RAAS",
@@ -565,6 +593,13 @@
         "gamemode": "RAAS",
         "teamOne": "USMC",
         "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_RAAS_v7",
+        "level": "Fallujah",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "PLA"
     },
     {
         "id": "Fallujah_Seed_v1",
@@ -728,6 +763,13 @@
         "teamTwo": "RUS"
     },
     {
+        "id": "GooseBay_Invasion_v5",
+        "level": "Goose Bay",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "GooseBay_RAAS_v1",
         "level": "Goose Bay",
         "gamemode": "RAAS",
@@ -747,6 +789,13 @@
         "gamemode": "RAAS",
         "teamOne": "USMC",
         "teamTwo": "RUS"
+    },
+    {
+        "id": "GooseBay_RAAS_v4",
+        "level": "Goose Bay",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "PLA"
     },
     {
         "id": "GooseBay_Skirmish_v1",
@@ -896,6 +945,13 @@
         "teamTwo": "US"
     },
     {
+        "id": "Gorodok_RAAS_v12",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Gorodok_Skirmish_v1",
         "level": "Gorodok",
         "gamemode": "Skirmish",
@@ -966,6 +1022,13 @@
         "teamTwo": "RUS"
     },
     {
+        "id": "Harju_Invasion_v5",
+        "level": "Harju",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Harju_RAAS_v1",
         "level": "Harju",
         "gamemode": "RAAS",
@@ -1001,6 +1064,13 @@
         "teamTwo": "MIL"
     },
     {
+        "id": "Harju_RAAS_v6",
+        "level": "Harju",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Harju_Seed_v1",
         "level": "Harju",
         "gamemode": "Seed",
@@ -1022,11 +1092,11 @@
         "teamTwo": "RUS"
     },
     {
-        "id": "JensensRange_AUS-RUS",
+        "id": "JensensRange_AUS-PLA",
         "level": "Jensen's Range",
         "gamemode": "Training",
         "teamOne": "AUS",
-        "teamTwo": "RUS"
+        "teamTwo": "PLA"
     },
     {
         "id": "JensensRange_CAF-INS",
@@ -1215,7 +1285,7 @@
         "level": "Kohat Toi",
         "gamemode": "AAS",
         "teamOne": "US",
-        "teamTwo": "MEA"
+        "teamTwo": "PLA"
     },
     {
         "id": "Kohat_AAS_v2",
@@ -1258,6 +1328,13 @@
         "gamemode": "Invasion",
         "teamOne": "CAF",
         "teamTwo": "INS"
+    },
+    {
+        "id": "Kohat_Invasion_v4",
+        "level": "Kohat Toi",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "PLA"
     },
     {
         "id": "Kohat_RAAS_v1",
@@ -1323,6 +1400,13 @@
         "teamTwo": "INS"
     },
     {
+        "id": "Kohat_RAAS_v10",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Kohat_Skirmish_v1",
         "level": "Kohat Toi",
         "gamemode": "Skirmish",
@@ -1340,8 +1424,8 @@
         "id": "Kokan_AAS_v1",
         "level": "Kokan",
         "gamemode": "AAS",
-        "teamOne": "RUS",
-        "teamTwo": "MEA"
+        "teamOne": "US",
+        "teamTwo": "PLA"
     },
     {
         "id": "Kokan_AAS_v2",
@@ -1470,6 +1554,13 @@
         "teamTwo": "INS"
     },
     {
+        "id": "Lashkar_Invasion_v4",
+        "level": "Lashkar Valley",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Lashkar_RAAS_v1",
         "level": "Lashkar Valley",
         "gamemode": "RAAS",
@@ -1550,8 +1641,8 @@
         "id": "Logar_AAS_v1",
         "level": "Logar Valley",
         "gamemode": "AAS",
-        "teamOne": "RUS",
-        "teamTwo": "MEA"
+        "teamOne": "US",
+        "teamTwo": "PLA"
     },
     {
         "id": "Logar_AAS_v2",
@@ -1841,6 +1932,13 @@
         "teamTwo": "MEA"
     },
     {
+        "id": "Mutaha_RAAS_v7",
+        "level": "Mutaha",
+        "gamemode": "RAAS",
+        "teamOne": "PLA",
+        "teamTwo": "RUS"
+    },
+    {
         "id": "Mutaha_Skirmish_v1",
         "level": "Mutaha",
         "gamemode": "Skirmish",
@@ -1967,6 +2065,13 @@
         "teamTwo": "RUS"
     },
     {
+        "id": "Narva_RAAS_v6",
+        "level": "Narva",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Narva_Skirmish_v1",
         "level": "Narva",
         "gamemode": "Skirmish",
@@ -1995,11 +2100,11 @@
         "teamTwo": "RUS"
     },
     {
-        "id": "PacificProvingGrounds_USMC-MEA",
+        "id": "PacificProvingGrounds_USMC-PLA",
         "level": "Pacific Proving Grounds",
         "gamemode": "Training",
         "teamOne": "USMC",
-        "teamTwo": "MEA"
+        "teamTwo": "PLA"
     },
     {
         "id": "PacificProvingGrounds_USMC-RUS",
@@ -2184,11 +2289,18 @@
         "teamTwo": "INS"
     },
     {
+        "id": "Sumari_Seed_v3",
+        "level": "Sumari Bala",
+        "gamemode": "Seed",
+        "teamOne": "US",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Sumari_Skirmish_v1",
         "level": "Sumari Bala",
         "gamemode": "Skirmish",
-        "teamOne": "MIL",
-        "teamTwo": "INS"
+        "teamOne": "US",
+        "teamTwo": "PLA"
     },
     {
         "id": "Sumari_TC_v1",
@@ -2240,6 +2352,13 @@
         "teamTwo": "INS"
     },
     {
+        "id": "Tallil_Invasion_v5",
+        "level": "Tallil Outskirts",
+        "gamemode": "Invasion",
+        "teamOne": "MEA",
+        "teamTwo": "PLA"
+    },
+    {
         "id": "Tallil_RAAS_v1",
         "level": "Tallil Outskirts",
         "gamemode": "RAAS",
@@ -2287,6 +2406,13 @@
         "gamemode": "RAAS",
         "teamOne": "CAF",
         "teamTwo": "MEA"
+    },
+    {
+        "id": "Tallil_RAAS_v8",
+        "level": "Tallil Outskirts",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "PLA"
     },
     {
         "id": "Tallil_Seed_v1",
@@ -2504,6 +2630,13 @@
         "gamemode": "RAAS",
         "teamOne": "CAF",
         "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v13",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "PLA"
     },
     {
         "id": "Yehorivka_Skirmish_v1",
