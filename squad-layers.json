@@ -1,0 +1,2557 @@
+[
+    {
+        "id": "AlBasrah_AAS_v1",
+        "level": "Al Basrah",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "AlBasrah_AAS_v2",
+        "level": "Al Basrah",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_AAS_v3",
+        "level": "Al Basrah",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_Insurgency_v1",
+        "level": "Al Basrah",
+        "gamemode": "Insurgency",
+        "teamOne": "GB",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_Invasion_v1",
+        "level": "Al Basrah",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_Invasion_v2",
+        "level": "Al Basrah",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_Invasion_v3",
+        "level": "Al Basrah",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_Invasion_v4",
+        "level": "Al Basrah",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_Invasion_v5",
+        "level": "Al Basrah",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "AlBasrah_Invasion_v6",
+        "level": "Al Basrah",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_Invasion_v7",
+        "level": "Al Basrah",
+        "gamemode": "Invasion",
+        "teamOne": "MEA",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_RAAS_v1",
+        "level": "Al Basrah",
+        "gamemode": "RAAS",
+        "teamOne": "MIL",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_Seed_v1",
+        "level": "Al Basrah",
+        "gamemode": "Seed",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "AlBasrah_Skirmish_v1",
+        "level": "Al Basrah",
+        "gamemode": "Skirmish",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "AlBasrah_Skirmish_v2",
+        "level": "Al Basrah",
+        "gamemode": "Skirmish",
+        "teamOne": "MIL",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "AlBasrah_TA_v1",
+        "level": "Al Basrah",
+        "gamemode": "Track Attack",
+        "teamOne": "US",
+        "teamTwo": "US"
+    },
+    {
+        "id": "AlBasrah_TC_v1",
+        "level": "Al Basrah",
+        "gamemode": "Territory Control",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "AlBasrah_TC_v2",
+        "level": "Al Basrah",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Anvil_AAS_v1",
+        "level": "Anvil",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Anvil_AAS_v2",
+        "level": "Anvil",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Anvil_Invasion_v1",
+        "level": "Anvil",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Anvil_Invasion_v2",
+        "level": "Anvil",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Anvil_RAAS_v1",
+        "level": "Anvil",
+        "gamemode": "RAAS",
+        "teamOne": "RUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Anvil_RAAS_v2",
+        "level": "Anvil",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Anvil_RAAS_v3",
+        "level": "Anvil",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Anvil_RAAS_v4",
+        "level": "Anvil",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Anvil_Skirmish_v1",
+        "level": "Anvil",
+        "gamemode": "Skirmish",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Anvil_TC_v1",
+        "level": "Anvil",
+        "gamemode": "Territory Control",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Belaya_AAS_v1",
+        "level": "Belaya Pass",
+        "gamemode": "AAS",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Belaya_AAS_v2",
+        "level": "Belaya Pass",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Belaya_AAS_v3",
+        "level": "Belaya Pass",
+        "gamemode": "AAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Belaya_Invasion_v1",
+        "level": "Belaya Pass",
+        "gamemode": "Invasion",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Belaya_Invasion_v2",
+        "level": "Belaya Pass",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Belaya_Invasion_v3",
+        "level": "Belaya Pass",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Belaya_RAAS_v1",
+        "level": "Belaya Pass",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Belaya_RAAS_v2",
+        "level": "Belaya Pass",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Belaya_RAAS_v3",
+        "level": "Belaya Pass",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Belaya_RAAS_v4",
+        "level": "Belaya Pass",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Belaya_RAAS_v5",
+        "level": "Belaya Pass",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Belaya_Skirmish_v1",
+        "level": "Belaya Pass",
+        "gamemode": "Skirmish",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Belaya_TC_v1",
+        "level": "Belaya Pass",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "BlackCoast_AAS_v1",
+        "level": "Black Coast",
+        "gamemode": "AAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "BlackCoast_AAS_v2",
+        "level": "Black Coast",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "BlackCoast_Invasion_v1",
+        "level": "Black Coast",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "BlackCoast_Invasion_v2",
+        "level": "Black Coast",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "BlackCoast_Invasion_v3",
+        "level": "Black Coast",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "BlackCoast_Invasion_v4",
+        "level": "Black Coast",
+        "gamemode": "Invasion",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "BlackCoast_RAAS_v1",
+        "level": "Black Coast",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "BlackCoast_RAAS_v2",
+        "level": "Black Coast",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "BlackCoast_RAAS_v3",
+        "level": "Black Coast",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "BlackCoast_RAAS_v4",
+        "level": "Black Coast",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "BlackCoast_Seed_v1",
+        "level": "Black Coast",
+        "gamemode": "Seed",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "BlackCoast_Skirmish_v1",
+        "level": "Black Coast",
+        "gamemode": "Skirmish",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Chora_AAS_v1",
+        "level": "Chora",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Chora_AAS_v2",
+        "level": "Chora",
+        "gamemode": "AAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Chora_AAS_v3",
+        "level": "Chora",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Chora_AAS_v4",
+        "level": "Chora",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Chora_AAS_v5",
+        "level": "Chora",
+        "gamemode": "AAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Chora_Insurgency_v1",
+        "level": "Chora",
+        "gamemode": "Insurgency",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Chora_Invasion_v1",
+        "level": "Chora",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Chora_Invasion_v2",
+        "level": "Chora",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Chora_RAAS_v1",
+        "level": "Chora",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Chora_RAAS_v2",
+        "level": "Chora",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Chora_RAAS_v3",
+        "level": "Chora",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Chora_RAAS_v4",
+        "level": "Chora",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Chora_Skirmish_v1",
+        "level": "Chora",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Chora_TC_v1",
+        "level": "Chora",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_AAS_v1",
+        "level": "Fallujah",
+        "gamemode": "AAS",
+        "teamOne": "MEA",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_AAS_v2",
+        "level": "Fallujah",
+        "gamemode": "AAS",
+        "teamOne": "USMC",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_Insurgency_v1",
+        "level": "Fallujah",
+        "gamemode": "Insurgency",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_Invasion_v1",
+        "level": "Fallujah",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_Invasion_v2",
+        "level": "Fallujah",
+        "gamemode": "Invasion",
+        "teamOne": "MEA",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_Invasion_v3",
+        "level": "Fallujah",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_Invasion_v4",
+        "level": "Fallujah",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_Invasion_v5",
+        "level": "Fallujah",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_RAAS_v1",
+        "level": "Fallujah",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_RAAS_v2",
+        "level": "Fallujah",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_RAAS_v3",
+        "level": "Fallujah",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_RAAS_v4",
+        "level": "Fallujah",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_RAAS_v5",
+        "level": "Fallujah",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_RAAS_v6",
+        "level": "Fallujah",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_Seed_v1",
+        "level": "Fallujah",
+        "gamemode": "Seed",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_Skirmish_v1",
+        "level": "Fallujah",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_Skirmish_v2",
+        "level": "Fallujah",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Fallujah_TC_v1",
+        "level": "Fallujah",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Fallujah_TC_v2",
+        "level": "Fallujah",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "FoolsRoad_AAS_v1",
+        "level": "Fool's Road",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "FoolsRoad_AAS_v2",
+        "level": "Fool's Road",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "FoolsRoad_Destruction_v1",
+        "level": "Fool's Road",
+        "gamemode": "Destruction",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "FoolsRoad_Invasion_v1",
+        "level": "Fool's Road",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "FoolsRoad_RAAS_v1",
+        "level": "Fool's Road",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "FoolsRoad_RAAS_v2",
+        "level": "Fool's Road",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "FoolsRoad_RAAS_v3",
+        "level": "Fool's Road",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "FoolsRoad_RAAS_v4",
+        "level": "Fool's Road",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "FoolsRoad_RAAS_v5",
+        "level": "Fool's Road",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "FoolsRoad_Skirmish_v1",
+        "level": "Fool's Road",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "FoolsRoad_Skirmish_v2",
+        "level": "Fool's Road",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "FoolsRoad_TC_v1",
+        "level": "Fool's Road",
+        "gamemode": "Territory Control",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "GooseBay_AAS_v1",
+        "level": "Goose Bay",
+        "gamemode": "AAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "GooseBay_AAS_v2",
+        "level": "Goose Bay",
+        "gamemode": "AAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "GooseBay_Invasion_v1",
+        "level": "Goose Bay",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "GooseBay_Invasion_v2",
+        "level": "Goose Bay",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "GooseBay_Invasion_v3",
+        "level": "Goose Bay",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "GooseBay_Invasion_v4",
+        "level": "Goose Bay",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "GooseBay_RAAS_v1",
+        "level": "Goose Bay",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "GooseBay_RAAS_v2",
+        "level": "Goose Bay",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "GooseBay_RAAS_v3",
+        "level": "Goose Bay",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "GooseBay_Skirmish_v1",
+        "level": "Goose Bay",
+        "gamemode": "Skirmish",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_AAS_v1",
+        "level": "Gorodok",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_AAS_v2",
+        "level": "Gorodok",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_AAS_v3",
+        "level": "Gorodok",
+        "gamemode": "AAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_AAS_v4",
+        "level": "Gorodok",
+        "gamemode": "AAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_Destruction_v1",
+        "level": "Gorodok",
+        "gamemode": "Destruction",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_Insurgency_v1",
+        "level": "Gorodok",
+        "gamemode": "Insurgency",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Gorodok_Invasion_v1",
+        "level": "Gorodok",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_Invasion_v2",
+        "level": "Gorodok",
+        "gamemode": "Invasion",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Gorodok_Invasion_v3",
+        "level": "Gorodok",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Gorodok_RAAS_v01",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_RAAS_v02",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_RAAS_v03",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_RAAS_v04",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_RAAS_v05",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_RAAS_v06",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_RAAS_v07",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_RAAS_v08",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Gorodok_RAAS_v09",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_RAAS_v10",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Gorodok_RAAS_v11",
+        "level": "Gorodok",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "US"
+    },
+    {
+        "id": "Gorodok_Skirmish_v1",
+        "level": "Gorodok",
+        "gamemode": "Skirmish",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_TC_v1",
+        "level": "Gorodok",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Gorodok_TC_v2",
+        "level": "Gorodok",
+        "gamemode": "Territory Control",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_AAS_v1",
+        "level": "Harju",
+        "gamemode": "AAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_AAS_v2",
+        "level": "Harju",
+        "gamemode": "AAS",
+        "teamOne": "USA",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_AAS_v3",
+        "level": "Harju",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Harju_Invasion_v1",
+        "level": "Harju",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_Invasion_v2",
+        "level": "Harju",
+        "gamemode": "Invasion",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Harju_Invasion_v3",
+        "level": "Harju",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Harju_Invasion_v4",
+        "level": "Harju",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_RAAS_v1",
+        "level": "Harju",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_RAAS_v2",
+        "level": "Harju",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_RAAS_v3",
+        "level": "Harju",
+        "gamemode": "RAAS",
+        "teamOne": "USA",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_RAAS_v4",
+        "level": "Harju",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_RAAS_v5",
+        "level": "Harju",
+        "gamemode": "RAAS",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Harju_Seed_v1",
+        "level": "Harju",
+        "gamemode": "Seed",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_Skirmish_v1",
+        "level": "Harju",
+        "gamemode": "Skirmish",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Harju_Skirmish_v2",
+        "level": "Harju",
+        "gamemode": "Skirmish",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "JensensRange_AUS-RUS",
+        "level": "Jensen's Range",
+        "gamemode": "Training",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "JensensRange_CAF-INS",
+        "level": "Jensen's Range",
+        "gamemode": "Training",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "JensensRange_GB-MIL",
+        "level": "Jensen's Range",
+        "gamemode": "Training",
+        "teamOne": "GB",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "JensensRange_USA-RUS",
+        "level": "Jensen's Range",
+        "gamemode": "Training",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "JensensRange_USMC-MEA",
+        "level": "Jensen's Range",
+        "gamemode": "Training",
+        "teamOne": "USMC",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kamdesh_AAS_v1",
+        "level": "Kamdesh Highlands",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kamdesh_Insurgency_v1",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Insurgency",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_Insurgency_v2",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Insurgency",
+        "teamOne": "GB",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_Invasion_v1",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_Invasion_v2",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_Invasion_v3",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_Invasion_v4",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_Invasion_v5",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_Invasion_v6",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kamdesh_Invasion_v7",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_RAAS_v1",
+        "level": "Kamdesh Highlands",
+        "gamemode": "RAAS",
+        "teamOne": "MIL",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_RAAS_v2",
+        "level": "Kamdesh Highlands",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kamdesh_RAAS_v3",
+        "level": "Kamdesh Highlands",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kamdesh_RAAS_v4",
+        "level": "Kamdesh Highlands",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kamdesh_RAAS_v5",
+        "level": "Kamdesh Highlands",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kamdesh_RAAS_v6",
+        "level": "Kamdesh Highlands",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kamdesh_RAAS_v7",
+        "level": "Kamdesh Highlands",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_Skirmish_v1",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Skirmish",
+        "teamOne": "AUS",
+        "teamTwo": "GB"
+    },
+    {
+        "id": "Kamdesh_TC_v1",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Territory Control",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kamdesh_TC_v2",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Territory Control",
+        "teamOne": "MIL",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kamdesh_TC_v3",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Territory Control",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kamdesh_TC_v4",
+        "level": "Kamdesh Highlands",
+        "gamemode": "Territory Control",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kohat_AAS_v1",
+        "level": "Kohat Toi",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kohat_AAS_v2",
+        "level": "Kohat Toi",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kohat_AAS_v3",
+        "level": "Kohat Toi",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kohat_Insurgency_v1",
+        "level": "Kohat Toi",
+        "gamemode": "Insurgency",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kohat_Invasion_v1",
+        "level": "Kohat Toi",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kohat_Invasion_v2",
+        "level": "Kohat Toi",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kohat_Invasion_v3",
+        "level": "Kohat Toi",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kohat_RAAS_v1",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kohat_RAAS_v2",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kohat_RAAS_v3",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "RUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kohat_RAAS_v4",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kohat_RAAS_v5",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kohat_RAAS_v6",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kohat_RAAS_v7",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "RUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kohat_RAAS_v8",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kohat_RAAS_v9",
+        "level": "Kohat Toi",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kohat_Skirmish_v1",
+        "level": "Kohat Toi",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "GB"
+    },
+    {
+        "id": "Kohat_TC_v1",
+        "level": "Kohat Toi",
+        "gamemode": "Territory Control",
+        "teamOne": "RUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kokan_AAS_v1",
+        "level": "Kokan",
+        "gamemode": "AAS",
+        "teamOne": "RUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kokan_AAS_v2",
+        "level": "Kokan",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kokan_AAS_v3",
+        "level": "Kokan",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kokan_Insurgency_v1",
+        "level": "Kokan",
+        "gamemode": "Insurgency",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kokan_Invasion_v1",
+        "level": "Kokan",
+        "gamemode": "Invasion",
+        "teamOne": "RUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kokan_RAAS_v1",
+        "level": "Kokan",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kokan_RAAS_v2",
+        "level": "Kokan",
+        "gamemode": "RAAS",
+        "teamOne": "RUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kokan_RAAS_v3",
+        "level": "Kokan",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Kokan_RAAS_v4",
+        "level": "Kokan",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Kokan_Skirmish_v1",
+        "level": "Kokan",
+        "gamemode": "Skirmish",
+        "teamOne": "MIL",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Kokan_TC_v1",
+        "level": "Kokan",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Lashkar_AAS_v1",
+        "level": "Lashkar Valley",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Lashkar_AAS_v2",
+        "level": "Lashkar Valley",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Lashkar_AAS_v3",
+        "level": "Lashkar Valley",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Lashkar_AAS_v4",
+        "level": "Lashkar Valley",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Lashkar_Insurgency_v1",
+        "level": "Lashkar Valley",
+        "gamemode": "Insurgency",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Lashkar_Invasion_v1",
+        "level": "Lashkar Valley",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Lashkar_Invasion_v2",
+        "level": "Lashkar Valley",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Lashkar_Invasion_v3",
+        "level": "Lashkar Valley",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Lashkar_RAAS_v1",
+        "level": "Lashkar Valley",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Lashkar_RAAS_v2",
+        "level": "Lashkar Valley",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Lashkar_RAAS_v3",
+        "level": "Lashkar Valley",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Lashkar_RAAS_v4",
+        "level": "Lashkar Valley",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Lashkar_RAAS_v5",
+        "level": "Lashkar Valley",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Lashkar_Skirmish_v1",
+        "level": "Lashkar Valley",
+        "gamemode": "Skirmish",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Lashkar_TC_v1",
+        "level": "Lashkar Valley",
+        "gamemode": "Territory Control",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Lashkar_TC_v2",
+        "level": "Lashkar Valley",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Lashkar_TC_v3",
+        "level": "Lashkar Valley",
+        "gamemode": "Territory Control",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Lashkar_TC_v4",
+        "level": "Lashkar Valley",
+        "gamemode": "Territory Control",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Lashkar_TC_v5",
+        "level": "Lashkar Valley",
+        "gamemode": "Territory Control",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Logar_AAS_v1",
+        "level": "Logar Valley",
+        "gamemode": "AAS",
+        "teamOne": "RUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Logar_AAS_v2",
+        "level": "Logar Valley",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Logar_AAS_v3",
+        "level": "Logar Valley",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Logar_Insurgency_v1",
+        "level": "Logar Valley",
+        "gamemode": "Insurgency",
+        "teamOne": "RUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Logar_RAAS_v1",
+        "level": "Logar Valley",
+        "gamemode": "RAAS",
+        "teamOne": "RUS",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Logar_RAAS_v2",
+        "level": "Logar Valley",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Logar_Seed_v1",
+        "level": "Logar Valley",
+        "gamemode": "Seed",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Logar_Skirmish_v1",
+        "level": "Logar Valley",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Logar_TC_v1",
+        "level": "Logar Valley",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Manic_AAS_v1",
+        "level": "Manic-5",
+        "gamemode": "AAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Manic_AAS_v2",
+        "level": "Manic-5",
+        "gamemode": "AAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Manic_Invasion_v1",
+        "level": "Manic-5",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Manic_Invasion_v2",
+        "level": "Manic-5",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "US"
+    },
+    {
+        "id": "Manic_RAAS_v1",
+        "level": "Manic-5",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Manic_RAAS_v2",
+        "level": "Manic-5",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Manic_RAAS_v3",
+        "level": "Manic-5",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Manic_RAAS_v4",
+        "level": "Manic-5",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Manic_Skirmish_v1",
+        "level": "Manic-5",
+        "gamemode": "Skirmish",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Manic_Skirmish_v2",
+        "level": "Manic-5",
+        "gamemode": "Skirmish",
+        "teamOne": "CAF",
+        "teamTwo": "US"
+    },
+    {
+        "id": "Manic_TC_v1",
+        "level": "Manic-5",
+        "gamemode": "Territory Control",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mestia_AAS_v1",
+        "level": "Mestia",
+        "gamemode": "AAS",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Mestia_AAS_v2",
+        "level": "Mestia",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mestia_Invasion_v1",
+        "level": "Mestia",
+        "gamemode": "Invasion",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Mestia_Invasion_v2",
+        "level": "Mestia",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Mestia_RAAS_v1",
+        "level": "Mestia",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Mestia_RAAS_v2",
+        "level": "Mestia",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mestia_Skirmish_v1",
+        "level": "Mestia",
+        "gamemode": "Skirmish",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Mestia_TC_v1",
+        "level": "Mestia",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mutaha_AAS_v1",
+        "level": "Mutaha",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mutaha_AAS_v2",
+        "level": "Mutaha",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mutaha_AAS_v3",
+        "level": "Mutaha",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mutaha_AAS_v4",
+        "level": "Mutaha",
+        "gamemode": "AAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mutaha_Invasion_v1",
+        "level": "Mutaha",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Mutaha_Invasion_v2",
+        "level": "Mutaha",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Mutaha_Invasion_v3",
+        "level": "Mutaha",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Mutaha_Invasion_v4",
+        "level": "Mutaha",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Mutaha_RAAS_v1",
+        "level": "Mutaha",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Mutaha_RAAS_v2",
+        "level": "Mutaha",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mutaha_RAAS_v3",
+        "level": "Mutaha",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Mutaha_RAAS_v4",
+        "level": "Mutaha",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mutaha_RAAS_v5",
+        "level": "Mutaha",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Mutaha_RAAS_v6",
+        "level": "Mutaha",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Mutaha_Skirmish_v1",
+        "level": "Mutaha",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Mutaha_TC_v1",
+        "level": "Mutaha",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Mutaha_TC_v2",
+        "level": "Mutaha",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Narva_AAS_v1",
+        "level": "Narva",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_AAS_v2",
+        "level": "Narva",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_AAS_v3",
+        "level": "Narva",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_AAS_v4",
+        "level": "Narva",
+        "gamemode": "AAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_Destruction_v1",
+        "level": "Narva",
+        "gamemode": "Destruction",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_Invasion_v1",
+        "level": "Narva",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_Invasion_v2",
+        "level": "Narva",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_Invasion_v3",
+        "level": "Narva",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_Invasion_v4",
+        "level": "Narva",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Narva_Invasion_v5",
+        "level": "Narva",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_RAAS_v1",
+        "level": "Narva",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_RAAS_v2",
+        "level": "Narva",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_RAAS_v3",
+        "level": "Narva",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Narva_RAAS_v4",
+        "level": "Narva",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_RAAS_v5",
+        "level": "Narva",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_Skirmish_v1",
+        "level": "Narva",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_TA_v1",
+        "level": "Narva",
+        "gamemode": "Track Attack",
+        "teamOne": "RUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_TC_v1",
+        "level": "Narva",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Narva_TC_v2",
+        "level": "Narva",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "PacificProvingGrounds_USMC-MEA",
+        "level": "Pacific Proving Grounds",
+        "gamemode": "Training",
+        "teamOne": "USMC",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "PacificProvingGrounds_USMC-RUS",
+        "level": "Pacific Proving Grounds",
+        "gamemode": "Training",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_AAS_v1",
+        "level": "Skorpo",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_Invasion_v1",
+        "level": "Skorpo",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Skorpo_Invasion_v2",
+        "level": "Skorpo",
+        "gamemode": "Invasion",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Skorpo_Invasion_v3",
+        "level": "Skorpo",
+        "gamemode": "Invasion",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_Invasion_v4",
+        "level": "Skorpo",
+        "gamemode": "Invasion",
+        "teamOne": "RUS",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Skorpo_RAAS_v1",
+        "level": "Skorpo",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_RAAS_v2",
+        "level": "Skorpo",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_RAAS_v3",
+        "level": "Skorpo",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Skorpo_RAAS_v4",
+        "level": "Skorpo",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_RAAS_v5",
+        "level": "Skorpo",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_Skirmish_v1",
+        "level": "Skorpo",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_TC_v1",
+        "level": "Skorpo",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_TC_v2",
+        "level": "Skorpo",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Skorpo_TC_v3",
+        "level": "Skorpo",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Sumari_AAS_v1",
+        "level": "Sumari Bala",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Sumari_AAS_v2",
+        "level": "Sumari Bala",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Sumari_AAS_v3",
+        "level": "Sumari Bala",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Sumari_AAS_v4",
+        "level": "Sumari Bala",
+        "gamemode": "AAS",
+        "teamOne": "CAF",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Sumari_AAS_v5",
+        "level": "Sumari Bala",
+        "gamemode": "AAS",
+        "teamOne": "USMC",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Sumari_Insurgency_v1",
+        "level": "Sumari Bala",
+        "gamemode": "Insurgency",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Sumari_Invasion_v1",
+        "level": "Sumari Bala",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Sumari_RAAS_v1",
+        "level": "Sumari Bala",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Sumari_RAAS_v2",
+        "level": "Sumari Bala",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Sumari_Seed_v1",
+        "level": "Sumari Bala",
+        "gamemode": "Seed",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Sumari_Seed_v2",
+        "level": "Sumari Bala",
+        "gamemode": "Seed",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Sumari_Skirmish_v1",
+        "level": "Sumari Bala",
+        "gamemode": "Skirmish",
+        "teamOne": "MIL",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Sumari_TC_v1",
+        "level": "Sumari Bala",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Tallil_AAS_v1",
+        "level": "Tallil Outskirts",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tallil_AAS_v2",
+        "level": "Tallil Outskirts",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Tallil_Invasion_v1",
+        "level": "Tallil Outskirts",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tallil_Invasion_v2",
+        "level": "Tallil Outskirts",
+        "gamemode": "Invasion",
+        "teamOne": "RUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Tallil_Invasion_v3",
+        "level": "Tallil Outskirts",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Tallil_Invasion_v4",
+        "level": "Tallil Outskirts",
+        "gamemode": "Invasion",
+        "teamOne": "AUS",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Tallil_RAAS_v1",
+        "level": "Tallil Outskirts",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Tallil_RAAS_v2",
+        "level": "Tallil Outskirts",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Tallil_RAAS_v3",
+        "level": "Tallil Outskirts",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tallil_RAAS_v4",
+        "level": "Tallil Outskirts",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tallil_RAAS_v5",
+        "level": "Tallil Outskirts",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tallil_RAAS_v6",
+        "level": "Tallil Outskirts",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tallil_RAAS_v7",
+        "level": "Tallil Outskirts",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Tallil_Seed_v1",
+        "level": "Tallil Outskirts",
+        "gamemode": "Seed",
+        "teamOne": "USMC",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Tallil_Seed_v2",
+        "level": "Tallil Outskirts",
+        "gamemode": "Seed",
+        "teamOne": "CAF",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Tallil_Skirmish_v1",
+        "level": "Tallil Outskirts",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tallil_Skirmish_v2",
+        "level": "Tallil Outskirts",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tallil_Skirmish_v3",
+        "level": "Tallil Outskirts",
+        "gamemode": "Skirmish",
+        "teamOne": "MIL",
+        "teamTwo": "INS"
+    },
+    {
+        "id": "Tallil_Tanks_v1",
+        "level": "Tallil Outskirts",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "MEA"
+    },
+    {
+        "id": "Tallil_Tanks_v2",
+        "level": "Tallil Outskirts",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tallil_TA_v1",
+        "level": "Tallil Outskirts",
+        "gamemode": "Track Attack",
+        "teamOne": "US",
+        "teamTwo": "US"
+    },
+    {
+        "id": "Tallil_TC_v1",
+        "level": "Tallil Outskirts",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Tutorial_Helicopter",
+        "level": "Training",
+        "gamemode": "Training",
+        "teamOne": "US",
+        "teamTwo": "US"
+    },
+    {
+        "id": "Tutorial_Infantry",
+        "level": "Training",
+        "gamemode": "Training",
+        "teamOne": "US",
+        "teamTwo": "US"
+    },
+    {
+        "id": "Yehorivka_AAS_v1",
+        "level": "Yehorivka",
+        "gamemode": "AAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_AAS_v2",
+        "level": "Yehorivka",
+        "gamemode": "AAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_AAS_v3",
+        "level": "Yehorivka",
+        "gamemode": "AAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_AAS_v4",
+        "level": "Yehorivka",
+        "gamemode": "AAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_Destruction_v1",
+        "level": "Yehorivka",
+        "gamemode": "Destruction",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_Invasion_v1",
+        "level": "Yehorivka",
+        "gamemode": "Invasion",
+        "teamOne": "GB",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Yehorivka_Invasion_v2",
+        "level": "Yehorivka",
+        "gamemode": "Invasion",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_Invasion_v3",
+        "level": "Yehorivka",
+        "gamemode": "Invasion",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Yehorivka_RAAS_v01",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "USMC",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v02",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v03",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v04",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v05",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v06",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v07",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v08",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "AUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v09",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "MIL"
+    },
+    {
+        "id": "Yehorivka_RAAS_v10",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v11",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_RAAS_v12",
+        "level": "Yehorivka",
+        "gamemode": "RAAS",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_Skirmish_v1",
+        "level": "Yehorivka",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_Skirmish_v2",
+        "level": "Yehorivka",
+        "gamemode": "Skirmish",
+        "teamOne": "GB",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_Skirmish_v3",
+        "level": "Yehorivka",
+        "gamemode": "Skirmish",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_TA_v1",
+        "level": "Yehorivka",
+        "gamemode": "Track Attack",
+        "teamOne": "RUS",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_TC_v1",
+        "level": "Yehorivka",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_TC_v2",
+        "level": "Yehorivka",
+        "gamemode": "Territory Control",
+        "teamOne": "US",
+        "teamTwo": "RUS"
+    },
+    {
+        "id": "Yehorivka_TC_v3",
+        "level": "Yehorivka",
+        "gamemode": "Territory Control",
+        "teamOne": "CAF",
+        "teamTwo": "RUS"
+    }
+]
