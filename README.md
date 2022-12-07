@@ -2,7 +2,9 @@
 
 This repository contains a list of all current [Squad](https://joinsquad.com/) layers. It is manually managed by members of the [We ♥️ Squad](https://welovesquad.com/) community and will be updated as close to new version releases as possible. It is used internally to generate map rotations.
 
-## The Data
+## Data
+
+**Data for Squad Version: *v4***
 
 You can find the data export [here](./squad-layers.json).
 
@@ -22,7 +24,7 @@ You can find the data export [here](./squad-layers.json).
 ```
 
 ### ID
-A correctly formatted Squad layer ID that can be used via RCon to switch layers.
+A valid Squad layer ID that can be used via RCon to switch layers.
 
 ### Level
 A level ID as logged by the Squad dedicated server.
