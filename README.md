@@ -81,7 +81,6 @@ One of:
 - `MIL`
 - `RUS`
 - `US`
-- `USA`
 - `USMC`
 
 ## Data Extraction Projects

@@ -983,7 +983,7 @@
         "id": "Harju_AAS_v2",
         "level": "Harju",
         "gamemode": "AAS",
-        "teamOne": "USA",
+        "teamOne": "US",
         "teamTwo": "RUS"
     },
     {
@@ -1046,7 +1046,7 @@
         "id": "Harju_RAAS_v3",
         "level": "Harju",
         "gamemode": "RAAS",
-        "teamOne": "USA",
+        "teamOne": "US",
         "teamTwo": "RUS"
     },
     {
